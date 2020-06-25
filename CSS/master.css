@@ -1,0 +1,17 @@
+/* p {
+  color:red;
+  font-size: 100px;
+  font-family: cursive;
+} */
+
+body {
+  background-color: pink;
+}
+
+h1 {
+  color:blue;
+}
+
+p {
+  color:green;
+}
